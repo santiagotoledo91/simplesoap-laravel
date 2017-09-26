@@ -1,0 +1,11 @@
+{
+    "name": "santiagotoledo91/simplesoap-laravel",
+    "description": "A simple Laravel Package to make use of SOAP web services with WSDL easily",
+    "authors": [
+        {
+            "name": "Santiago Alejandro Toledo Lopez",
+            "email": "santiagotoledo91@gmail.com"
+        }
+    ],
+    "type" : "project"
+}
